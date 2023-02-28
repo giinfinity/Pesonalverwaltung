@@ -9,17 +9,15 @@ namespace Pesonalverwaltung
     public class CArbeitende : CMitarbeitende
     {
         private int stunden;
-        private double stundenlohn; 
+        private double stundenlohn;
 
-        public CArbeitende(string vn, string nn, int std, double stdLohn)
+        public CArbeitende(string vn, string nn, int std, double stdLohn) : base(vn,nn)
         {
-            SetVorname(vn);
-            SetNachname(nn);
             this.stunden = std;
             this.stundenlohn = stdLohn;
         }
 
-        public CArbeitende() { }
+        //public CArbeitende() { }
 
         public bool SetStunden(int std) 
         { 

@@ -11,22 +11,27 @@ namespace Pesonalverwaltung
         private string nachname; 
         private string vorname;
 
-        public string GetNachname()
+        public CMitarbeitende(string vn, string nn) 
+        {
+            SetVorname(vn);
+            SetNachname(nn);
+        }
+        private string GetNachname()
         {
             return nachname;
         }
 
-        public string GetVorname()
+        private string GetVorname()
         {
             return vorname;
         }
 
-        public void SetNachname(string nN)
+        private void SetNachname(string nN)
         {
             this.nachname = nN;
         }
 
-        public void SetVorname(string vN)
+        private void SetVorname(string vN)
         {
             this.vorname= vN;
         }

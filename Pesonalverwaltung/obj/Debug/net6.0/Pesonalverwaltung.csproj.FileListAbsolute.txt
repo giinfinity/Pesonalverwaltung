@@ -1,0 +1,15 @@
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\bin\Debug\net6.0\Pesonalverwaltung.exe
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\bin\Debug\net6.0\Pesonalverwaltung.deps.json
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\bin\Debug\net6.0\Pesonalverwaltung.runtimeconfig.json
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\bin\Debug\net6.0\Pesonalverwaltung.dll
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\bin\Debug\net6.0\Pesonalverwaltung.pdb
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.csproj.AssemblyReference.cache
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.AssemblyInfoInputs.cache
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.AssemblyInfo.cs
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.dll
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\refint\Pesonalverwaltung.dll
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.pdb
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\Pesonalverwaltung.genruntimeconfig.cache
+C:\Users\ginam\source\repos\Pesonalverwaltung\Pesonalverwaltung\obj\Debug\net6.0\ref\Pesonalverwaltung.dll

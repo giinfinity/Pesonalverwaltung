@@ -10,14 +10,14 @@ namespace Pesonalverwaltung
     {
         private double bruttogehalt;
 
-        public CAngestellte(string vn, string nn, double brutto)
+        public CAngestellte(string vn, string nn, double brutto) : base(vn,nn)
         {
-            SetNachname(vn);
-            SetNachname(nn);
+            //SetNachname(vn);
+            //etNachname(nn);
             this.bruttogehalt = brutto;
             
         }
-        public CAngestellte() {}
+        //public CAngestellte() {}
 
         public bool SetBrutto(double brutto) 
         {
@@ -36,6 +36,5 @@ namespace Pesonalverwaltung
         {
             return bruttogehalt;
         }
-
     }
 }
